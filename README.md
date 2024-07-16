@@ -5,7 +5,7 @@ I love to work on web application using technologies like React, Tailwindcss. My
 <img width="400" align="right" 
   src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="profile">
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Parthism Parth's Portfolio](http://parthism-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [Parthism Parth's Portfolio](http://parthism.netlify.app/)
 * ✉️  You can contact me at [patelparth3943@gmail.com](mailto:patelparth3943@gmail.com)
 * 🧠  I'm learning Node.js and enhancing my skills in React.
 
